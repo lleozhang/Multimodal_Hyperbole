@@ -1,2 +1,4 @@
-# Multimodal_Hyperbole
-This is the repo for LREC-COLING 2024.
+# Image Matters: A New Dataset and Empirical Study for Multimodal Hyperbole Detection
+Paper Link: https://arxiv.org/abs/2307.00209
+
+
